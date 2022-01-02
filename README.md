@@ -1,5 +1,6 @@
-# testrepo
+# IBM Data Science Professional Certificate
+## Applied Data Science Capstone
 
-## Editing the file
+1. Data Collection API Lab
+2. Data Collection with Web Scraping
 
-It is a markdown test in this repository. 
