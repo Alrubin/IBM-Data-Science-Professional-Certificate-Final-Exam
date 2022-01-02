@@ -1,6 +1,7 @@
 # IBM Data Science Professional Certificate
-## Course 10: Applied Data Science Capstone - Notebooks
+## Course 10: Applied Data Science Capstone 
 
+Notebooks:
 1. Data Collection API Lab
 2. Data Collection with Web Scraping
 3. Data Wrangling
